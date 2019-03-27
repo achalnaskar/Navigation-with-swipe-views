@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="MainList">
+        <item name="movies">Movies</item>
+        <item name="music">Music</item>
+    </string-array>
+    <string-array name="tab_title">
+        <item>A</item>
+        <item>Almak</item>
+        <item>Anlamak</item>
+        <item>Anlasmak</item>
+        <item>Anlatmak</item>
+        <item>Ayrilmak</item>
+    </string-array>
+    <string-array name="tab_titles">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+        <item>অ</item>
+        <item>আ</item>
+        <item>ই</item>
+        <item>ঈ</item>
+        <item>উ</item>
+        <item>ঊ</item>
+        <item>ঋ </item>
+        <item>৯</item>
+        <item>এ</item>
+        <item>ঐ</item>
+        <item>ও</item>
+        <item>ঔ</item>
+        <item>ক</item>
+        <item>খ</item>
+        <item>গ</item>
+        <item>ঘ</item>
+        <item>ঙ</item>
+        <item>চ</item>
+        <item>ছ</item>
+        <item>জ</item>
+        <item>ঝ</item>
+        <item>ঞ</item>
+        <item>ট</item>
+        <item>ঠ</item>
+        <item>ড</item>
+        <item>ঢ</item>
+        <item>ণ</item>
+        <item>ত</item>
+        <item>থ</item>
+        <item>দ</item>
+        <item>ধ</item>
+        <item>ন</item>
+        <item>প</item>
+        <item>ফ</item>
+        <item>ব</item>
+        <item>ভ</item>
+        <item>ম</item>
+        <item>য</item>
+        <item>র</item>
+        <item>ল</item>
+        <item>ব</item>
+        <item>শ</item>
+        <item>ষ</item>
+        <item>স</item>
+        <item>হ </item>
+        <item>ড়</item>
+        <item>ঢ়</item>
+        <item>য়</item>
+        <item>ৎ</item>
+        <item>ং</item>
+        <item>ঃ</item>
+        <item>ঁ</item>
+    </string-array>
+
+</resources>
